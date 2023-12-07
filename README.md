@@ -1,3 +1,4 @@
 # AquaticRigRoadmap
-Roadmap for developing Aquatic Rig
+Roadmap for developing Aquatic Rig:
+
 https://aquaticrigroadmap.streamlit.app/
